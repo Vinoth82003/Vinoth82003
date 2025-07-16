@@ -29,7 +29,7 @@
 
 <p align="left">
   I'm Vinoth S from Chennai, India 🇮🇳<br><br>
-  - 🔭 I’m currently working on full-stack web apps and real-time projects like <strong>My Data Manager</strong> and <strong>EcoSnap</strong><br>
+  - 🔭 I’m currently working on full-stack web apps and real-time projects like <strong>My Data Manager</strong> and <strong> Share Me </strong><br>
   - 🌱 I’m learning advanced backend practices, CI/CD, system design, and AI integrations<br>
   - 🧠 Building secure auth flows, environment file managers, calendar clones, and rich blog editors using React & Next.js<br>
   - 💡 I enjoy solving problems and building end-to-end products<br>
