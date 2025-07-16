@@ -60,16 +60,6 @@
 
 ###
 
-<h3 align="left">📈 My Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinoth82003&theme=dark&hide_border=false" height="220" alt="streak graph" />
-</div>
-
-
-
-###
-
 <h3 align="left">📬 Get in Touch</h3>
 
 - 📨 Email: [vinothg0618@gmail.com](mailto:vinothg0618@gmail.com)
